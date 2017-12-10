@@ -1,16 +1,29 @@
 {
   "name": "liri",
   "version": "1.0.0",
-  "description": "",
+  "description": "liri",
   "main": "liri.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Julian",
   "license": "ISC",
   "dependencies": {
+    "fs": "0.0.1-security",
     "inquirer": "^4.0.1",
+    "node-spotify-api": "^1.0.7",
     "request": "^2.83.0",
     "twitter": "^1.7.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtoasis/liri.git"
+  },
+  "keywords": [
+    "liri"
+  ],
+  "bugs": {
+    "url": "https://github.com/mtoasis/liri/issues"
+  },
+  "homepage": "https://github.com/mtoasis/liri#readme"
 }
