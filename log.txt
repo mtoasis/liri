@@ -1,57 +1,19 @@
+﻿<Type: Twitter>
+1. 3rd tweet &amp; coffee.....Sun Dec 10 00:17:14 +0000 2017
 <Type: Twitter>
-1. 3rd tweet &amp; coffee.....Sun Dec 10 00:17:14 +0000 2017<Type: Twitter>
-2. 2nd tweet.....Sat Dec 02 22:59:49 +0000 2017<Type: Twitter>
-3. Hello Tweeter.....Sat Dec 02 22:59:42 +0000 2017<Type: Spotify Search>
---------------------------------------------
-
-Song Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
-Artist: Ty Dolla $ign
-Album Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
-Preview_Url: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=0433e810bdbe4e70944bc4adc8315d95
---------------------------------------------
-<Type: Spotify Search>
---------------------------------------------
-
-Song Name: Sign of the Times
-Artist: Harry Styles
-Album Name: Sign of the Times
-Preview_Url: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=0433e810bdbe4e70944bc4adc8315d95
---------------------------------------------
-<Type: Spotify Search>
---------------------------------------------
-
-Song Name: Sign of the Times
-Artist: Harry Styles
-Album Name: Harry Styles
-Preview_Url: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=0433e810bdbe4e70944bc4adc8315d95
---------------------------------------------
+2. 2nd tweet.....Sat Dec 02 22:59:49 +0000 2017
 <Type: Twitter>
-1. 3rd tweet &amp; coffee.....Sun Dec 10 00:17:14 +0000 2017<Type: Twitter>
-3. Hello Tweeter.....Sat Dec 02 22:59:42 +0000 2017<Type: Twitter>
-2. 2nd tweet.....Sat Dec 02 22:59:49 +0000 2017<Type: Twitter>
-1. 3rd tweet &amp; coffee.....Sun Dec 10 00:17:14 +0000 2017<Type: Twitter>
-2. 2nd tweet.....Sat Dec 02 22:59:49 +0000 2017<Type: Twitter>
-3. Hello Tweeter.....Sat Dec 02 22:59:42 +0000 2017<Type: Spotify Search>
+3. Hello Tweeter.....Sat Dec 02 22:59:42 +0000 2017
+<Type: Movie Search>
 --------------------------------------------
 
-Song Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
-Artist: Ty Dolla $ign
-Album Name: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
-Preview_Url: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=0433e810bdbe4e70944bc4adc8315d95
---------------------------------------------
-<Type: Spotify Search>
---------------------------------------------
-
-Song Name: Sign of the Times
-Artist: Harry Styles
-Album Name: Sign of the Times
-Preview_Url: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=0433e810bdbe4e70944bc4adc8315d95
---------------------------------------------
-<Type: Spotify Search>
+Movie Title: Mr. Nobody
+Released Date: 26 Sep 2013
+ImdbRating: 7.9/10
+Rotten Tomatoes Rating: 66%
+Country Produced: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
 --------------------------------------------
 
-Song Name: Sign of the Times
-Artist: Harry Styles
-Album Name: Harry Styles
-Preview_Url: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=0433e810bdbe4e70944bc4adc8315d95
---------------------------------------------

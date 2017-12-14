@@ -197,7 +197,7 @@ inquirer.prompt([
     });
 
     function append_log(output, type){
-        fs.appendFile("log.txt",type+output, function(err) {
+        fs.appendFile("log.txt",type+output+"\n", function(err) {
         if (err) {
       return console.log(err);
     }
